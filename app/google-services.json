@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "272653154216",
+    "project_id": "spot-xi",
+    "storage_bucket": "spot-xi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272653154216:android:b0017027391d0a47380f9d",
+        "android_client_info": {
+          "package_name": "com.devin.aspotxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272653154216-56q12eqefthl3j2fpfc7c6lkrg1ejq89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRTpQSyutWjpmhD0IiDT4LcPxQS66_WAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272653154216-56q12eqefthl3j2fpfc7c6lkrg1ejq89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272653154216:android:a63193ba892d5f07380f9d",
+        "android_client_info": {
+          "package_name": "com.devin.spotxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272653154216-56q12eqefthl3j2fpfc7c6lkrg1ejq89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRTpQSyutWjpmhD0IiDT4LcPxQS66_WAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272653154216-56q12eqefthl3j2fpfc7c6lkrg1ejq89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

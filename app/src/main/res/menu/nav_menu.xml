@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Points"
+        android:icon="@drawable/ic_baseline_leaderboard_24"
+        android:title="Points Table" />
+    <item
+        android:id="@+id/Privacy"
+        android:icon="@drawable/ic_baseline_lock_24"
+        android:title="Privacy Poloicy" />
+    <item
+        android:id="@+id/Contact"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="Contact Us" />
+    <item
+        android:id="@+id/drms"
+        android:icon="@drawable/ic_baseline_copyright_24"
+        android:title="Points Table" />
+    <item
+        android:id="@+id/About"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About Us" />
+</menu>
